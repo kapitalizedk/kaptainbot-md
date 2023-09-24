@@ -1,4 +1,4 @@
-#### HERMIT MD WHATSAPP BOT
+#### KAPTAIN MD WHATSAPP BOT
 Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
@@ -52,15 +52,20 @@ For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki)
 
 If you find this project helpful and would like to support my efforts, you can show your appreciation in three ways:
 
-1. **Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
+1. **BUY ME AIRTIME**: Your support will help me stay motivated and continue working on exciting projects like this one.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/adithyanr">
   <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
 
-2. **Donate USDT (Tether) Crypto**: You can also support me by donating crypto directly to my USDT wallet. Your contribution will go a long way in helping me improve and maintain this project.
+2. **Donate money (naira)**: You can also support me by donating cash directly to my naira wallet. Your contribution will go a long way in helping me improve and maintain this project.
 
-   Crypto Wallet Address: `0x816a82f51b45e97ffeff60e177ae79f5ae971efb`
+   naira Wallet: 9055508514
+   opay 
 
-Your generosity is greatly appreciated!
+**THANKS TO KAPTAIN**
+thanks for your contributions 
+ELITE JAH
+REHOBOTH 
+SMILE'S TV
