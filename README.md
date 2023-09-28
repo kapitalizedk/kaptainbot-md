@@ -1,5 +1,5 @@
 #### KAPTAIN MD WHATSAPP BOT
-Hermit-md - Simple whatsapp Multi Device whatsapp bot.
+kaptain-md - Simple whatsapp Multi Device whatsapp bot.
 
 ***
 
@@ -53,6 +53,8 @@ For help visit [Github wiki](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki)
 If you find this project helpful and would like to support my efforts, you can show your appreciation in three ways:
 
 1. **BUY ME AIRTIME**: Your support will help me stay motivated and continue working on exciting projects like this one.
+2. 07035619894 mtn
+3. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/adithyanr">
   <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
@@ -64,8 +66,9 @@ If you find this project helpful and would like to support my efforts, you can s
    naira Wallet: 9055508514
    opay 
 
-**THANKS TO KAPTAIN**
+### THANKS TO KAPTAIN
 thanks for your contributions 
-ELITE JAH
-REHOBOTH 
-SMILE'S TV
+**ELITE JAH**
+**REHOBOTH**
+**SMILE'S TV**
+**Ak-com-tv**
